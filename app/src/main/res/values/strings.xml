@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">catividad 1</string>
+    <string name="assitance_quality_agriculture_a_q_a">Assitance Quality Agriculture A.Q.A</string>
+    <string name="todo">TODO</string>
+    <string name="perfil">Perfil</string>
+    <string name="seleccione_la_actividad_que_desea_realizar">Seleccione la actividad que desea realizar</string>
+    <string name="resumen">Resumen</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
